@@ -15,40 +15,51 @@ practical experience.
 
 ### Languages
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
+</p>
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React Native](https://skillicons.dev/icons?i=reactnative)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=reactnative" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
+</p>
 
 ### Backend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
+</p>
 
 ### Databases
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
+</p>
 
 ### ORM & Data Access
 
-![Mongoose](https://skillicons.dev/icons?i=mongoose)
-
-**Drizzle ORM**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongoose" width="50" height="50" />&nbsp;&nbsp;
+  <strong>Drizzle ORM</strong>
+</p>
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![npm](https://skillicons.dev/icons?i=npm)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" />
+</p>
 
 ## What I'm Currently Focused On
 
