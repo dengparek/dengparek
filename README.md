@@ -16,9 +16,9 @@ practical experience.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
 </p>
 
