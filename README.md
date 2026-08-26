@@ -11,43 +11,44 @@ I'm currently looking for opportunities to learn from experienced
 developers, contribute to real-world projects, and grow through
 practical experience.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ### Frontend
 
-- React
-- Next.js
-- React Native
-- Tailwind CSS
-- Vite
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React Native](https://skillicons.dev/icons?i=reactnative)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
 
 ### Backend
 
-- Node.js
-- Express.js
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
 
 ### Databases
 
-- PostgreSQL
-- MongoDB
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### ORM & Data Access
 
-- Drizzle ORM
-- Mongoose
+![Mongoose](https://skillicons.dev/icons?i=mongoose)
+
+**Drizzle ORM**
 
 ### Tools
 
-- Git
-- GitHub
-- npm
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![npm](https://skillicons.dev/icons?i=npm)
 
 ## What I'm Currently Focused On
 
@@ -87,7 +88,6 @@ I'm interested in opportunities that allow me to:
 - Strengthen my software engineering skills
 - Build practical solutions to problems in my community
 
-## Languages
 
 - English
 - Juba Arabic
