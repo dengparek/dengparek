@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm Deng Parek 👋
 
-<!--
-**dengparek/dengparek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught software developer from South Sudan, focused on
+building practical applications and strengthening my software
+engineering skills.
 
-Here are some ideas to get you started:
+I started learning software development in 2025 and have been
+working primarily with the JavaScript and TypeScript ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for opportunities to learn from experienced
+developers, contribute to real-world projects, and grow through
+practical experience.
+
+## Tech Stack
+
+### Languages
+
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Frontend
+
+- React
+- Next.js
+- React Native
+- Tailwind CSS
+- Vite
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+
+### ORM & Data Access
+
+- Drizzle ORM
+- Mongoose
+
+### Tools
+
+- Git
+- GitHub
+- npm
+
+## What I'm Currently Focused On
+
+- Backend development
+- REST API design
+- Database design
+- Authentication and authorization
+- Full-stack application development
+- Software architecture
+- Building practical software projects
+
+## Featured Projects
+
+### Subscription Tracker API
+
+A RESTful backend API for managing user subscriptions and recurring
+bills.
+
+**Technologies:** TypeScript, Node.js, Express.js, MongoDB,
+Mongoose, JWT
+
+### TaskPro Manager API
+
+A RESTful task management API that allows users to create teams,
+create and assign tasks, comment on tasks, track task status, and
+manage permissions.
+
+**Technologies:** TypeScript, Node.js, Express.js, MongoDB, JWT
+
+## Currently Looking For
+
+I'm interested in opportunities that allow me to:
+
+- Learn from experienced developers
+- Work on real-world software projects
+- Contribute to multidisciplinary teams
+- Strengthen my software engineering skills
+- Build practical solutions to problems in my community
+
+## Languages
+
+- English
+- Juba Arabic
