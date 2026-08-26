@@ -50,7 +50,7 @@ practical experience.
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongoose" width="75" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Drizzle ORM</strong>
+  <img src="https://dl.svgcdn.com/svg/bxl/drizzle-orm.svg" width="75" height="50" />
 </p>
 
 ### Tools
